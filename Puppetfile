@@ -20,4 +20,3 @@ mod 'puppetlabs-ntp', '8.0.0'
 
 mod 'apache',
   :git    => 'https://github.com/elle-la/puppet-apache'
-  :branch => 'master'
