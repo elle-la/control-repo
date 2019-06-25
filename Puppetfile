@@ -17,7 +17,6 @@ forge 'https://forge.puppet.com'
 #  :branch => 'docs_experiment'
 
 mod 'puppetlabs-stdlib', '6.0.0'
-
 mod 'puppetlabs-ntp', '8.0.0'
 
 mod 'apache',
